@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "개발 일기"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Parkkkkk"
 description              : "An amazing website."
 url                      : "https://Parkkkkk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
