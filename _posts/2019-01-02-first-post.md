@@ -1,7 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2018-01-02 18:16:28 -0400
-categories: jekyll update
+title: "첫 글"
+categories: first post
 ---
 
 My first post 
