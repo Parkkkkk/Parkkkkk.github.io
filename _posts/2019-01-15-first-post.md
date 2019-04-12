@@ -1,7 +1,10 @@
 ---
-title: "첫 글"
+title: "0412"
 categories: first post
 ---
+
+
+
 
 My first post 
 test~~
